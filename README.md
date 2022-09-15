@@ -1,6 +1,6 @@
 # Building Your First Logical Database Design – E-COMMERCE
 
-Project developed at Digital Innovation One's Bootcamp Database Experience with expert guidance[Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-00349426/ "Juliana Mascarenhas").
+Project developed at Digital Innovation One's Bootcamp Database Experience with expert guidance [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-00349426/ "Juliana Mascarenhas").
 
 Learning to create SQL queries with the following points:
 
