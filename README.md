@@ -10,3 +10,5 @@ Learning to create SQL queries with the following points:
 - Definition of data ordering with ORDER BY.
 - Filter conditions for groups – HAVING Statement.
 - Creating joins between tables to provide a more complex perspective of the data.
+
+[LICENSE](./LICENSE)
